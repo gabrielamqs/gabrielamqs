@@ -1,9 +1,13 @@
-
-<div style="display: inline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielamqs&show_icons=true&theme=dracula" />
-  <a href="https://github.com/gabrielamqs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielamqs&layout=compact&theme=dracula&disable_animations)](https://github.com/gabrielamqs/github-readme-stats" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielamqs&show_icons=true&theme=dracula" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielamqs&layout=compact&theme=dracula" />
+    </td>
+  </tr>
+</table>
  
  ##
 
