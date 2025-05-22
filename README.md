@@ -1,4 +1,4 @@
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielamqs&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielamqs&layout=compact&theme=dracula" />
 </div>
