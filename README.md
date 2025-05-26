@@ -7,6 +7,7 @@ Sou graduanda em Sistemas de Informação e atualmente trabalho como desenvolved
 Busco aprender novos conhecimentos e melhorar cada dia mais!
 
 <hr>
+
 🖥️ Tecnologias e Ferramentas:
 
 <div>
